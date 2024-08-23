@@ -1,2 +1,2 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+crates/cheatcodes/assets/*.json linguist-generated
+testdata/cheats/Vm.sol linguist-generated
